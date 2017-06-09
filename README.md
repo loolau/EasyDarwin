@@ -119,3 +119,4 @@ QQ交流群：[288214068](http://jq.qq.com/?_wv=1027&k=2Dlyhr7 "EasyDarwin交流
 Copyright &copy; www.EasyDarwin.org 2012-2017
 
 ![EasyDarwin](http://www.easydarwin.org/skin/easydarwin/images/wx_qrcode.jpg)
+1
